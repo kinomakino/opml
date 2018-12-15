@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Kino subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="a" title="a">
+            <outline type="rss" text="Private Cloud Architecture Blog" title="Private Cloud Architecture Blog" xmlUrl="http://blogs.technet.com/b/privatecloud/rss.aspx" htmlUrl="https://blogs.technet.microsoft.com/privatecloud"/>
+        </outline>
+        <outline type="rss" text="Agux y sus bits " title="Agux y sus bits " xmlUrl="http://blogsfeeds.acampos.net/AguxYSusBits" htmlUrl="http://www.acampos.net/"/>
+        <outline type="rss" text="BITÁCORA DE REDES" title="BITÁCORA DE REDES" xmlUrl="http://bitacoraderedes.wordpress.com/feed/" htmlUrl="https://bitacoraderedes.wordpress.com"/>
+        <outline type="rss" text="Los mundos de Longi" title="Los mundos de Longi" xmlUrl="http://longinox.blogspot.com/feeds/posts/default" htmlUrl="http://longinox.blogspot.com/"/>
+        <outline type="rss" text="BTshell - [In]- Seguridad Informática | Blog sobre [Pentesting - Ethical Hacking - Vulnerabilities]" title="BTshell - [In]- Seguridad Informática | Blog sobre [Pentesting - Ethical Hacking - Vulnerabilities]" xmlUrl="http://btshell.wordpress.com/feed/" htmlUrl="https://btshell.wordpress.com"/>
+        <outline type="rss" text="DaboBlog" title="DaboBlog" xmlUrl="http://feeds.feedburner.com/Daboblog" htmlUrl="https://daboblog.com"/>
+        <outline type="rss" text="El Blog de Angelucho" title="El Blog de Angelucho" xmlUrl="http://elblogdeangelucho.com/elblogdeangelucho/feed/" htmlUrl="http://elblogdeangelucho.com/elblogdeangelucho"/>
+        <outline type="rss" text="Un informático en el lado del mal" title="Un informático en el lado del mal" xmlUrl="http://elladodelmal.blogspot.com/feeds/posts/default" htmlUrl="http://www.elladodelmal.com/"/>
+        <outline type="rss" text="INSEGUROS" title="INSEGUROS" xmlUrl="http://kinomakino.blogspot.com/feeds/posts/default" htmlUrl="http://kinomakino.blogspot.com/"/>
+        <outline type="rss" text="hackplayers" title="hackplayers" xmlUrl="http://www.hackplayers.com/feeds/posts/default?alt=rss" htmlUrl="https://www.hackplayers.com/"/>
+        <outline type="rss" text="Hacking Ético - Blog de seguridad informática" title="Hacking Ético - Blog de seguridad informática" xmlUrl="http://hacking-etico.com/feed/" htmlUrl="https://hacking-etico.com"/>
+        <outline type="rss" text="HighSec" title="HighSec" xmlUrl="http://highsec.es/feed/" htmlUrl="http://highsec.es"/>
+        <outline type="rss" text="Hispasec @unaaldia" title="Hispasec @unaaldia" xmlUrl="http://www.hispasec.com/rss/unaaldia.xml" htmlUrl="https://unaaldia.hispasec.com"/>
+        <outline type="rss" text="Security By Default" title="Security By Default" xmlUrl="http://www.securitybydefault.com/feeds/posts/default" htmlUrl="http://www.securitybydefault.com/"/>
+        <outline type="rss" text="Seguridad Informática " title="Seguridad Informática " xmlUrl="http://www.seguridadjabali.com/feeds/posts/default" htmlUrl="https://www.seguridadjabali.com/"/>
+        <outline type="rss" text="SeguridadDelMal" title="SeguridadDelMal" xmlUrl="http://www.seguridaddelmal.com/feeds/posts/default" htmlUrl="http://www.seguridaddelmal.com/"/>
+        <outline type="rss" text="Mi equipo está loco" title="Mi equipo está loco" xmlUrl="http://blogs.itpro.es/miequipoestaloco/feed/" htmlUrl="http://blogs.itpro.es/miequipoestaloco"/>
+        <outline type="rss" text="Snifer@L4b's" title="Snifer@L4b's" xmlUrl="http://www.sniferl4bs.com/feeds/posts/default" htmlUrl="http://www.sniferl4bs.com/"/>
+        <outline type="rss" text="SpamLoco" title="SpamLoco" xmlUrl="http://feeds.feedburner.com/Spamloco" htmlUrl="https://www.spamloco.net"/>
+        <outline type="rss" text="Home | Sucuri Blog" title="Home | Sucuri Blog" xmlUrl="http://blog.sucuri.net/feed" htmlUrl="https://blog.sucuri.net"/>
+        <outline type="rss" text="0verl0ad Labs" title="0verl0ad Labs" xmlUrl="http://blog.0verl0ad.com/feeds/posts/default" htmlUrl="http://blog.0verl0ad.com/"/>
+        <outline type="rss" text="DiabloHorn | Attempting to understand security" title="DiabloHorn | Attempting to understand security" xmlUrl="http://diablohorn.wordpress.com/feed/" htmlUrl="https://diablohorn.com"/>
+        <outline type="rss" text="Caminando entre bits..." title="Caminando entre bits..." xmlUrl="http://seifreed.com/feed/" htmlUrl="https://seifreed.com"/>
+        <outline type="rss" text="Pentester.es" title="Pentester.es" xmlUrl="http://www.pentester.es/feeds/posts/default" htmlUrl="http://www.pentester.es/"/>
+        <outline type="rss" text="[In]Seguridad Informática" title="[In]Seguridad Informática" xmlUrl="http://calebbucker.blogspot.com/feeds/posts/default" htmlUrl="http://calebbucker.blogspot.com/"/>
+        <outline type="rss" text="Windows Incident Response" title="Windows Incident Response" xmlUrl="http://windowsir.blogspot.com/feeds/posts/default" htmlUrl="http://windowsir.blogspot.com/"/>
+        <outline type="rss" text="ethicalhack3r" title="ethicalhack3r" xmlUrl="http://www.ethicalhack3r.co.uk/feed/" htmlUrl="http://www.ethicalhack3r.co.uk"/>
+        <outline type="rss" text="hacktimes.com - where infomation meets freedom" title="hacktimes.com - where infomation meets freedom" xmlUrl="http://www.hacktimes.com/feeds.xml" htmlUrl="http://www.hacktimes.com/feed.xml"/>
+        <outline type="rss" text="Security Art Work" title="Security Art Work" xmlUrl="http://www.securityartwork.es/feed/" htmlUrl="https://www.securityartwork.es"/>
+        <outline type="rss" text="Seguridad en Sistemas y Tecnicas de Hacking. | Tecnicas de Hacking" title="Seguridad en Sistemas y Tecnicas de Hacking. | Tecnicas de Hacking" xmlUrl="http://thehackerway.com/feed/" htmlUrl="https://thehackerway.com"/>
+        <outline type="rss" text="ALGUIEN EN LA FISI" title="ALGUIEN EN LA FISI" xmlUrl="http://alguienenlafisi.blogspot.com/feeds/posts/default" htmlUrl="http://blog.alguien.site/"/>
+        <outline type="rss" text="UN TAL 4N0NYM0US EN EL PC" title="UN TAL 4N0NYM0US EN EL PC" xmlUrl="http://www.enelpc.com/feeds/posts/default" htmlUrl="http://www.enelpc.com/"/>
+        <outline type="rss" text="http://www.sec-track.com/" title="http://www.sec-track.com/" xmlUrl="http://www.sec-track.com/feed" htmlUrl="http://www.sec-track.com"/>
+        <outline type="rss" text="Articles &amp; Tutorials  :: WindowSecurity.com" title="Articles &amp; Tutorials  :: WindowSecurity.com" xmlUrl="http://www.windowsecurity.com/articles-tutorials/feed.rss" htmlUrl="http://www.windowsecurity.com/articles-tutorials/"/>
+        <outline type="rss" text="Kodeinfect's Blog" title="Kodeinfect's Blog" xmlUrl="http://kode-labs.blogspot.com/feeds/posts/default" htmlUrl="http://kode-labs.blogspot.com/"/>
+        <outline type="rss" text="Pepelux" title="Pepelux" xmlUrl="http://blog.pepelux.org/feed/" htmlUrl="http://blog.pepelux.org"/>
+        <outline type="rss" text="Dot ike Blog | Otro diario más…" title="Dot ike Blog | Otro diario más…" xmlUrl="http://dtike.wordpress.com/feed/" htmlUrl="https://dtike.wordpress.com"/>
+        <outline type="rss" text="Inseguridad Informatica «ZaиGє†su»" title="Inseguridad Informatica «ZaиGє†su»" xmlUrl="http://blackkzangetsu.blogspot.com/feeds/posts/default" htmlUrl="http://blackkzangetsu.blogspot.com/"/>
+        <outline type="rss" text="La Comunidad DragonJAR" title="La Comunidad DragonJAR" xmlUrl="http://feeds.feedburner.com/dragonjar/pKru" htmlUrl="https://www.dragonjar.org"/>
+        <outline type="rss" text="IT Security and Hacking knowledge base - SecDocs" title="IT Security and Hacking knowledge base - SecDocs" xmlUrl="http://www.secdocs.org/feeds/latest/" htmlUrl="http://www.secdocs.org/"/>
+        <outline type="rss" text="memset's blog" title="memset's blog" xmlUrl="http://memset.wordpress.com/feed/" htmlUrl="https://memset.wordpress.com"/>
+        <outline type="rss" text="Life of a Penetration Tester" title="Life of a Penetration Tester" xmlUrl="http://www.punter-infosec.com/feed/" htmlUrl="http://www.punter-infosec.com"/>
+        <outline type="rss" text="Nullthreat Security" title="Nullthreat Security" xmlUrl="http://www.nullthreat.net/feeds/posts/default" htmlUrl="http://www.nullthreat.net/"/>
+        <outline type="rss" text="Security on the edge" title="Security on the edge" xmlUrl="http://feeds.feedburner.com/SecurityOnTheEdge" htmlUrl="http://edge-security.blogspot.com/"/>
+        <outline type="rss" text="spylogic.net" title="spylogic.net" xmlUrl="http://feeds2.feedburner.com/spylogic" htmlUrl="https://www.spylogic.net"/>
+        <outline type="rss" text="Apuntes de seguridad de la información" title="Apuntes de seguridad de la información" xmlUrl="http://seguridad-de-la-informacion.blogspot.com/feeds/posts/default" htmlUrl="http://seguridad-de-la-informacion.blogspot.com/"/>
+        <outline type="rss" text="Wardog y El Mundo" title="Wardog y El Mundo" xmlUrl="http://www.mundowdg.com/blog/?feed=rss2" htmlUrl="http://mundowdg.com/blog"/>
+        <outline type="rss" text="1gb de información" title="1gb de información" xmlUrl="http://www.1gbdeinformacion.com/feeds/posts/default" htmlUrl="http://www.1gbdeinformacion.com/"/>
+        <outline type="rss" text="Blackploit [PenTest]" title="Blackploit [PenTest]" xmlUrl="http://www.blackploit.com/feeds/posts/default" htmlUrl="http://www.blackploit.com/"/>
+        <outline type="rss" text="Un Alien al PC" title="Un Alien al PC" xmlUrl="http://unalienalpc.blogspot.com/feeds/posts/default" htmlUrl="http://unalienalpc.blogspot.com/"/>
+        <outline type="rss" text="SeguridadBlanca" title="SeguridadBlanca" xmlUrl="http://www.seguridadblanca.in/feeds/posts/default" htmlUrl="http://backup.dedalo.in/"/>
+        <outline type="rss" text="DaboBlog - Por David Hernández (Dabo), Cibercultura | GNU / Linux | Hacking - Seguridad | SysAdmin |" title="DaboBlog - Por David Hernández (Dabo), Cibercultura | GNU / Linux | Hacking - Seguridad | SysAdmin |" xmlUrl="http://www.daboblog.com/feed/" htmlUrl="https://daboblog.com"/>
+        <outline type="rss" text="Daboweb | Seguridad y ayuda informática |  Daboweb | Seguridad y ayuda informática | »" title="Daboweb | Seguridad y ayuda informática |  Daboweb | Seguridad y ayuda informática | »" xmlUrl="http://www.daboweb.com/feed/" htmlUrl="https://www.daboweb.com"/>
+        <outline type="rss" text="Flu Project «" title="Flu Project «" xmlUrl="http://www.flu-project.com/feed" htmlUrl="http://www.flu-project.com"/>
+        <outline type="rss" text="diazantuna.es - Blog Administracion de Sistemas" title="diazantuna.es - Blog Administracion de Sistemas" xmlUrl="http://www.diazantuna.es/feed/" htmlUrl="http://www.diazantuna.es"/>
+        <outline type="rss" text="Windows Security Blog" title="Windows Security Blog" xmlUrl="http://blogs.windows.com/windows/rss.aspx" htmlUrl="http://blogs.windows.com/windows/default.aspx"/>
+        <outline type="rss" text="Root against the machine" title="Root against the machine" xmlUrl="http://rootagainstthemachine.wordpress.com/feed/" htmlUrl="https://rootagainstthemachine.wordpress.com"/>
+        <outline type="rss" text="websecuritydev.com" title="websecuritydev.com" xmlUrl="http://websecuritydev.com/feed/" htmlUrl="http://websecuritydev.com"/>
+        <outline type="rss" text="Cacería de Spammers" title="Cacería de Spammers" xmlUrl="http://feeds.feedburner.com/ElCodigoK" htmlUrl="http://elcodigok.blogspot.com/"/>
+        <outline type="rss" text="S21sec Blog. Seguridad digital." title="S21sec Blog. Seguridad digital." xmlUrl="http://feeds.feedburner.com/S21sec" htmlUrl="http://blog.s21sec.com/"/>
+        <outline type="rss" text="CRYPTEX - Seguridad  de  la  Información" title="CRYPTEX - Seguridad  de  la  Información" xmlUrl="http://seguridad-informacion.blogspot.com/feeds/posts/default" htmlUrl="http://seguridad-informacion.blogspot.com/"/>
+        <outline type="rss" text="PenTest &amp; Hacking Tools" title="PenTest &amp; Hacking Tools" xmlUrl="http://feeds.feedburner.com/PentestTools" htmlUrl="http://www.kitploit.com/"/>
+        <outline type="rss" text="Estación Informática" title="Estación Informática" xmlUrl="http://estacioninformatica.blogspot.com/feeds/posts/default" htmlUrl="https://estacioninformatica.blogspot.com/"/>
+        <outline type="rss" text="Guru de la  informática" title="Guru de la  informática" xmlUrl="http://vtroger.blogspot.com/feeds/posts/default" htmlUrl="http://www.gurudelainformatica.es/"/>
+        <outline type="rss" text="Shell Shock Labs" title="Shell Shock Labs" xmlUrl="http://www.shellshocklabs.com/feeds/posts/default" htmlUrl="http://www.shellshocklabs.com/"/>
+        <outline type="rss" text="Yellow Bricks" title="Yellow Bricks" xmlUrl="http://www.yellow-bricks.com/feed/" htmlUrl="http://www.yellow-bricks.com"/>
+        <outline type="rss" text="Insinuator" title="Insinuator" xmlUrl="http://www.insinuator.net/feed/" htmlUrl="https://insinuator.net"/>
+    </body>
+</opml>
