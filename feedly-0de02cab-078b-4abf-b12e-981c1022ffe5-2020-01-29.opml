@@ -5,17 +5,12 @@
         <title>null subscriptions in feedly Cloud</title>
     </head>
     <body>
-        <outline text="SPLUNK" title="SPLUNK">
             <outline type="rss" text="splunkes" title="splunkes" xmlUrl="https://splunkes.wordpress.com/feed/" htmlUrl="https://splunkes.wordpress.com"/>
             <outline type="rss" text="Splunk Blogs" title="Splunk Blogs" xmlUrl="http://blogs.splunk.com/feed/" htmlUrl="https://www.splunk.com/blog"/>
-        </outline>
-        <outline text="Must Read" title="Must Read">
             <outline type="rss" text="Windows Incident Response" title="Windows Incident Response" xmlUrl="http://windowsir.blogspot.com/feeds/posts/default" htmlUrl="http://windowsir.blogspot.com/"/>
             <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/msrc/rss.xml" htmlUrl="https://msrc-blog.microsoft.com"/>
             <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/b/srd/rss.aspx" htmlUrl="https://msrc-blog.microsoft.com"/>
             <outline type="rss" text="Microsoft Security" title="Microsoft Security" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://www.microsoft.com/security/blog"/>
-        </outline>
-        <outline text="NO CASTELLANO" title="NO CASTELLANO">
             <outline type="rss" text="Securosis Blog" title="Securosis Blog" xmlUrl="https://www.securosis.com/feeds/blog-complete" htmlUrl="https://www.securosis.com/blog"/>
             <outline type="rss" text="risk3sixty" title="risk3sixty" xmlUrl="http://www.risk3sixty.com/feed/" htmlUrl="https://risk3sixty.com"/>
             <outline type="rss" text="Blog de Israel Martínez Bermejo" title="Blog de Israel Martínez Bermejo" xmlUrl="http://www.israelmb.es/feed/" htmlUrl="http://www.israelmb.es"/>
@@ -70,8 +65,6 @@
             <outline type="rss" text="offense-in-depth" title="offense-in-depth" xmlUrl="http://www.offense-in-depth.com/feed/" htmlUrl="http://www.offense-in-depth.com"/>
             <outline type="rss" text="Nige the Security Guy" title="Nige the Security Guy" xmlUrl="http://nigesecurityguy.wordpress.com/feed/" htmlUrl="https://nigesecurityguy.wordpress.com"/>
             <outline type="rss" text="Writing and Ramblings" title="Writing and Ramblings" xmlUrl="http://feeds.feedburner.com/MartinMcKeaysNetworkSecurityBlog" htmlUrl="http://blog.mckeay.net"/>
-        </outline>
-        <outline text="Kinomakino" title="Kinomakino">
             <outline type="rss" text="BITÁCORA DE REDES" title="BITÁCORA DE REDES" xmlUrl="http://bitacoraderedes.wordpress.com/feed/" htmlUrl="https://bitacoraderedes.wordpress.com"/>
             <outline type="rss" text="fwhibbit" title="fwhibbit" xmlUrl="https://www.blogger.com/feeds/5986667332503894132/posts/default" htmlUrl="http://fwhibbit.blogspot.com/"/>
             <outline type="rss" text="La Chistera Blanca" title="La Chistera Blanca" xmlUrl="http://www.lachisterablanca.com/feeds/posts/default" htmlUrl="http://www.lachisterablanca.com/"/>
@@ -138,8 +131,7 @@
             <outline type="rss" text="Blog de Omar" title="Blog de Omar" xmlUrl="http://www.el-palomo.com/feed/" htmlUrl="http://www.el-palomo.com"/>
             <outline type="rss" text="fwhibbit" title="fwhibbit" xmlUrl="http://fwhibbit.blogspot.com/feeds/posts/default" htmlUrl="http://fwhibbit.blogspot.com/"/>
             <outline type="rss" text="INSEGUROS Seguridad informática" title="INSEGUROS Seguridad informática" xmlUrl="http://kinomakino.blogspot.com/feeds/posts/default" htmlUrl="http://kinomakino.blogspot.com/"/>
-        </outline>
-        <outline type="rss" text="Legaltechcompliance" title="Legaltechcompliance" xmlUrl="http://tecnologiayprivacidad.es/feed/" htmlUrl="http://legaltechcompliance.com"/>
+            <outline type="rss" text="Legaltechcompliance" title="Legaltechcompliance" xmlUrl="http://tecnologiayprivacidad.es/feed/" htmlUrl="http://legaltechcompliance.com"/>
         <outline type="rss" text="Documentos Sin Archivar" title="Documentos Sin Archivar" xmlUrl="http://dsa-chanchi.blogspot.com/feeds/posts/default" htmlUrl="https://dsa-chanchi.blogspot.com/"/>
         <outline type="rss" text="Intrusionlabs" title="Intrusionlabs" xmlUrl="https://intrusionlabs.org/feed/" htmlUrl="http://intrusionlabs.org"/>
         <outline type="rss" text="Jose E Hernandez Blog" title="Jose E Hernandez Blog" xmlUrl="http://www.josehelps.com/feeds/posts/default" htmlUrl="http://www.josehelps.com/"/>
